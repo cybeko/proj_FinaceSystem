@@ -4,17 +4,17 @@ __________________________
 
 Category: Bills
 Amount: 500
-Date: 2.10.2023
+Date: 1.10.2023
 __________________________
 
 Category: Car
 Amount: 600
-Date: 2.10.2023
+Date: 3.10.2023
 __________________________
 
 Category: Entertainment
 Amount: 200
-Date: 2.10.2023
+Date: 4.10.2023
 __________________________
 
 Category: Bills
